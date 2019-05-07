@@ -24,30 +24,30 @@
 <p>	Certified Cloud and infrastructure services from EMC </p>
 
 <h2> Key Areas Of Expertise: </h2>
-o	Scrum Master
-o	Project Management	o	Requirement Analysis, design and development	o	Agile Principles
-o	Spring planning and estimation
-	o	High Severity Incident Management	o	Problem Management 
-o	Quality assurance 	
+<div>o	Scrum Master
+<div>o	Project Management	o	Requirement Analysis, design and development	o	Agile Principles
+<div>o	Spring planning and estimation
+<div>	o	High Severity Incident Management	o	Problem Management 
+<div>o	Quality assurance 	
 
 	
 		
-Key Technical Skills: 
+<h2>Key Technical Skills: </h2>
 
-Skill Type	Description
-Programming Languages	COBOL, REXX , JCL, XML, Web Services
-Debugging Tools	Abend-Aid, Xpeditor
-Operating Systems	MVS, Windows
-Database	DB2
-Tools	Alchemist, Endevor , Spufi, File-Aid, Tivoli Work Scheduler, Princeton/Optim , Platinum 
-OLTP	CICS 
-Project Management tool	MS Project, MS Excel
-Collobration tool	Confluence 
-Issue & Project tracking	Jira
+<div>Skill Type	Description
+<div>Programming Languages	COBOL, REXX , JCL, XML, Web Services
+<div>Debugging Tools	Abend-Aid, Xpeditor
+<div>Operating Systems	MVS, Windows
+<div>Database	DB2
+<div>Tools	Alchemist, Endevor , Spufi, File-Aid, Tivoli Work Scheduler, Princeton/Optim , Platinum 
+<div>OLTP	CICS 
+<div>Project Management tool	MS Project, MS Excel
+<div>Collobration tool	Confluence 
+<div>Issue & Project tracking	Jira
 
-Work Experience :
+<h2>Work Experience :</h2>
 
-Total Work Experience : 13 years 
+<div>Total Work Experience : 13 years 
 Organization : DXC Technology
 
 Project 1 	: Renewal Transparency/Personal lines
@@ -55,7 +55,7 @@ Role		: Apllicaiton Design/SME
 Client Name	: Aviva, UK 
 Tools Used	: Endevor, COBOL, DB2, JCL, jira, Confleunce, XML, XSL, Web Services
 Location 	: Norwich, UK
-Domain	: General Insurance
+Domain	: General Insurance 
 
 Project Detail : This project relates to fulfilling FCA requirement to clearly articulate current year price vs Renewal price so that customer can take an informed decision abbot renewal.
 
@@ -65,7 +65,8 @@ Responsibilities Undertaken:
 	Helping team with implementation and delivery of project.
 	Quality checkpoints to ensure delivering business value
 	Handling multiple project design parallely 
-
+</div>
+<div>
 Project 2 	: New partner product setup 
 Role		: Scrum Master
 Client Name	: Aviva, UK 
@@ -86,7 +87,8 @@ Responsibilities Undertaken:
 	Cordination in a distributed agile mode.
 	Educating team to create concise stories and promoting agile priciples.
 	Stakeholder management
-
+</div>
+<div>
 Project 3 	: George
 Role		: Project Lead
 Client Name	: Aviva, UK 
@@ -108,7 +110,8 @@ Responsibilities Undertaken:
 	Supporting project through lifecycle from analysis design till Live support
 	Grooming tream members by process stablisation and training
 
-
+</div>
+<div>
 Project 4 : Aviva-Exceed-Maintenance
 Role		: Run Lead
 Client Name	: Aviva, UK 
@@ -130,7 +133,8 @@ Responsibilities Undertaken:
 	Face to client for any adhoc requests. Understanding the requirement & delivering the work on time
 	Co-ordination with offshore team.
 
-
+</div>
+<div>
 Project 5 : Aviva-Exceed-Development
 Role		: Team member
 Client Name	: Aviva, UK 
@@ -147,24 +151,26 @@ Responsibilities Undertaken:
 	Supporing defects in release cycle.
 	Mentoring new team members
 
+</div>
 
 
 
 
-
-Education :     
-
+<h2>Education : </h2>     
+<div>
           Examination	      Institution/   University	Year of 
 Passing	%age of 
 marks 
 B.Tech. (Computer Science)	BIET, Jhansi	  2005	  75.4
 12th Board Exam.(U.P.)	UP Board	  1999	  75.0
 10th Board Exam.(U.P.)	UP Board	  1997	  71.2
-   
-Achievements:
+  </div> 
+<h2>Achievements:</h2>
+<div>
 	Awarded COA (Certificate of Achievement) & Key to Success for outstanding contribution towards project in DXC
 	UK Insurance CII Certified
 	Awarded Star Performer Of Quarter 
 	Certified Software Qaulity analyst
 	Certified Scrum Master from Scrum alliance
 	Certified Cloud and infrastructure services from EMC
+</div>
