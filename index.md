@@ -1,9 +1,9 @@
 <h1> Amit Kumar Lohia </h1>
 <div> Address:                K301, Homes121, Sector 121 Noida
- Tel No :                +91-9582090022
- E-mail:                 lohia.amit@gmail.com
- Date Of Birth:          16th  May ,1983
-    Passport:               Z3155281	</div>
+ <div>Tel No :                +91-9582090022
+ <div>E-mail:                 lohia.amit@gmail.com
+ <div>Date Of Birth:          16th  May ,1983
+    <div>Passport:               Z3155281	</div>
 
 <h2> Profile Summary : </h2>
 <div>A certified scrum master having 13 years of experience in General insurance IT industry. An effective communicator with exceptional relation management skills. </div>
