@@ -50,8 +50,8 @@
 <div>Total Work Experience : 13 years 
 Organization : DXC Technology
 
-Project 1 	: Renewal Transparency/Personal lines
-Role		: Apllicaiton Design/SME
+- Project 1 	: Renewal Transparency/Personal lines
+- Role		: Apllicaiton Design/SME
 Client Name	: Aviva, UK 
 Tools Used	: Endevor, COBOL, DB2, JCL, jira, Confleunce, XML, XSL, Web Services
 Location 	: Norwich, UK
