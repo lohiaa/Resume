@@ -1,31 +1,31 @@
-<h1> Amit Kumar Lohia </h1>
+# Amit Kumar Lohia
 <div> Address:                K301, Homes121, Sector 121 Noida
  <div>Tel No :                +91-9582090022
  <div>E-mail:                 lohia.amit@gmail.com
  <div>Date Of Birth:          16th  May ,1983
     <div>Passport:               Z3155281	</div>
 
-<h2> Profile Summary : </h2>
-<div>A certified scrum master having 13 years of experience in General insurance IT industry. An effective communicator with exceptional relation management skills. </div>
-<p>	Strong working experience on delivering projects end to end </p>
-<p>	Working knowledge of each stage of project lifecycle like estimation, scheduling, budget and delivery </p>
-<p>	5 Years of client side exposure in AVIVA , U.K </p>
-<p>	8+ years of  extensive experience in Agile (Scrum/Kanban) </p>
-<p>	Rich experience as solution designer , scrum master and project lead in waterfall and Agile projects </p>
-<p>	Experience of handling globally distributed team and working in distributed agile as well </p>
-<p>	Domain knowledge of General (Property & Casualty) Insurance: Personal Auto (Motor), Household (Home Owners) & Travel for retail (direct), Intermediaries (Agents, Brokers & corporate partners). </p>
-<p>	Experience in all aspects of the application delivery lifecycle from business change, initiation, design & build through to deployment, test & operational support i.e. end to end SDLC. </p>
-<p>	Well versed with Scrum (Agile) methodology. Excelled in client interaction by attending various Scrum meetings e.g. Daily Stand-ups, Sprint Planning, Retrospectives, and Business Demonstrations. </p>
-<p>	Extensive experience in Problem managememt and incident management in production support </p>
-<p>	.An agile software development experience with in depth knowledge of COBOL, JCL, CICS and DB2. </p>
-<p>	Cetified Scrum Master (CSM) </p>
-<p>	Certified software quality analyst (CSQA) </p>
-<p>	IF1 Certified from Chartered Isurance Institute (CII) UK. </p>
-<p>	Certified Cloud and infrastructure services from EMC </p>
+## Profile Summary : 
+A certified scrum master having 13 years of experience in General insurance IT industry. An effective communicator with exceptional relation management skills.
+- Strong working experience on delivering projects end to end 
+- Working knowledge of each stage of project lifecycle like estimation, scheduling, budget and delivery 
+- 5 Years of client side exposure in AVIVA , U.K 
+- 8+ years of  extensive experience in Agile (Scrum/Kanban) 
+- Rich experience as solution designer , scrum master and project lead in waterfall and Agile projects 
+- Experience of handling globally distributed team and working in distributed agile as well 
+- Domain knowledge of General (Property & Casualty) Insurance: Personal Auto (Motor), Household (Home Owners) & Travel for retail (direct), Intermediaries (Agents, Brokers & corporate partners). 
+- Experience in all aspects of the application delivery lifecycle from business change, initiation, design & build through to deployment, test & operational support i.e. end to end SDLC. 
+- Well versed with Scrum (Agile) methodology. Excelled in client interaction by attending various Scrum meetings e.g. Daily Stand-ups, Sprint Planning, Retrospectives, and Business Demonstrations. 
+- Extensive experience in Problem managememt and incident management in production support 
+- An agile software development experience with in depth knowledge of COBOL, JCL, CICS and DB2. 
+- Cetified Scrum Master (CSM) 
+- Certified software quality analyst (CSQA) 
+- IF1 Certified from Chartered Isurance Institute (CII) UK.
+- Certified Cloud and infrastructure services from EMC 
 
-<h2> Key Areas Of Expertise: </h2>
-<div>o	Scrum Master
-<div>o	Project Management	o	Requirement Analysis, design and development	o	Agile Principles
+## Key Areas Of Expertise: 
+- Scrum Master		-- Project Management
+o	Requirement Analysis, design and development	o	Agile Principles
 <div>o	Spring planning and estimation
 <div>	o	High Severity Incident Management	o	Problem Management 
 <div>o	Quality assurance 	
