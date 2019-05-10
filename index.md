@@ -24,30 +24,34 @@ A certified scrum master having 13 years of experience in General insurance IT i
 - Certified Cloud and infrastructure services from EMC 
 
 ## Key Areas Of Expertise: 
-- Scrum Master		-- Project Management
-o	Requirement Analysis, design and development	o	Agile Principles
-<div>o	Spring planning and estimation
-<div>	o	High Severity Incident Management	o	Problem Management 
-<div>o	Quality assurance 	
+- Scrum Master		
+- Project Management
+- Requirement Analysis, design and development
+- Agile Principles
+- Spring planning and estimation
+- High Severity Incident Management	
+- Problem Management 
+- Quality assurance 	
 
 	
 		
-<h2>Key Technical Skills: </h2>
+## Key Technical Skills:
 
-<div>Skill Type	Description
-<div>Programming Languages	COBOL, REXX , JCL, XML, Web Services
-<div>Debugging Tools	Abend-Aid, Xpeditor
-<div>Operating Systems	MVS, Windows
-<div>Database	DB2
-<div>Tools	Alchemist, Endevor , Spufi, File-Aid, Tivoli Work Scheduler, Princeton/Optim , Platinum 
-<div>OLTP	CICS 
-<div>Project Management tool	MS Project, MS Excel
-<div>Collobration tool	Confluence 
-<div>Issue & Project tracking	Jira
+| Skill Type              | Description|                                                                              |
+|----------------------------|-------------------------------------------------------------------------------------------|
+| Programming Languages|    | COBOL, REXX , JCL, XML, Web Services                                                     |
+| Debugging Tools|          | Abend-Aid, Xpeditor                                                                      |
+| Operating Systems         | |MVS, Windows                                                                            |
+| Database|                 | DB2                                                                                      |
+| Tools|                    | Alchemist, Endevor , Spufi, File-Aid, Tivoli Work Scheduler, Princeton/Optim , Platinum |
+| OLTP|                     | CICS                                                                                     |
+| Project Management tool|  | MS Project, MS Excel                                                                     |
+| Collobration tool         | |Confluence                                                                              |
+| Issue & Project tracking| | Jira                                                                                     |
 
-<h2>Work Experience :</h2>
+## Work Experience :
 
-<div>Total Work Experience : 13 years 
+Total Work Experience : 13 years 
 Organization : DXC Technology
 
 - Project 1 	: Renewal Transparency/Personal lines
@@ -65,7 +69,7 @@ Responsibilities Undertaken:
 	Helping team with implementation and delivery of project.
 	Quality checkpoints to ensure delivering business value
 	Handling multiple project design parallely 
-</div>
+
 <div>
 Project 2 	: New partner product setup 
 Role		: Scrum Master
