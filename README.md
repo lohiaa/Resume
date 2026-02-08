@@ -106,8 +106,6 @@ Completed B.Tech Computer sciences from BIET Jhansi with 75.4% in year 2005.
 
 
 ## Personal Details:
-Address:                K301, Homes121, Sector 121 Noida
+Address:                Homes121, Sector 121 Noida
 Tel No :                +91-9582090022
 E-mail:                 lohia.amit@gmail.com
-Date Of Birth:          16th  May ,1983
-Passport:               Z3155281	
