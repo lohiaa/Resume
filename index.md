@@ -1,177 +1,61 @@
-<h1> Amit Kumar Lohia </h1>
+# Executive Summary  
+Results-driven IT Delivery Manager with over 10 years of experience in driving successful technology projects in the insurance sector, specializing in mainframe technology and cloud services. Strong track record of delivering projects on time and within budget while managing cross-functional teams and stakeholders.
 
+# Core Competencies  
+- IT Delivery Management  
+- Project Management  
+- Insurance Domain Expertise  
+- Mainframe Technology Stack  
+- Cloud Services  
+- Stakeholder Engagement  
+- Agile & Waterfall Methodologies  
+- Budgeting & Resource Management  
 
-<div> Address:                Homes121, Sector 121 Noida
- <div>Tel No :                +91-9582090022
- <div>E-mail:                 lohia.amit@gmail.com
+# Detailed Project Experience  
+## Aviva  
+**IT Delivery Manager**  
+*Jan 2020 - Present*  
+- Led the successful delivery of multiple IT projects, improving operational efficiency by 30%.  
+- Managed a team of 15 professionals in the implementation of cloud-based solutions, enhancing scalability and performance.  
+- Spearheaded a major transformation project moving core insurance applications from mainframe to cloud, resulting in a cost reduction of 20%.  
 
+## Key Projects:  
+1. **Core Insurance System Migration**  
+   - **Role:** IT Delivery Manager  
+   - **Technologies Used:** Mainframe, AWS  
+   - **Impact:** Reduced processing time by 50%.  
+2. **Customer Portal Development**  
+   - **Role:** Project Lead  
+   - **Technologies Used:** Java, React, AWS  
+   - **Impact:** Improved customer satisfaction scores by 40%.  
 
-<h2> Profile Summary : </h2>
-<div>A certified scrum master having 13 years of experience in General insurance IT industry. An effective communicator with exceptional relation management skills. </div>
-<p>	Strong working experience on delivering projects end to end </p>
-<p>	Working knowledge of each stage of project lifecycle like estimation, scheduling, budget and delivery </p>
-<p>	5 Years of client side exposure in AVIVA , U.K </p>
-<p>	8+ years of  extensive experience in Agile (Scrum/Kanban) </p>
-<p>	Rich experience as solution designer , scrum master and project lead in waterfall and Agile projects </p>
-<p>	Experience of handling globally distributed team and working in distributed agile as well </p>
-<p>	Domain knowledge of General (Property & Casualty) Insurance: Personal Auto (Motor), Household (Home Owners) & Travel for retail (direct), Intermediaries (Agents, Brokers & corporate partners). </p>
-<p>	Experience in all aspects of the application delivery lifecycle from business change, initiation, design & build through to deployment, test & operational support i.e. end to end SDLC. </p>
-<p>	Well versed with Scrum (Agile) methodology. Excelled in client interaction by attending various Scrum meetings e.g. Daily Stand-ups, Sprint Planning, Retrospectives, and Business Demonstrations. </p>
-<p>	Extensive experience in Problem managememt and incident management in production support </p>
-<p>	.An agile software development experience with in depth knowledge of COBOL, JCL, CICS and DB2. </p>
-<p>	Cetified Scrum Master (CSM) </p>
-<p>	Certified software quality analyst (CSQA) </p>
-<p>	IF1 Certified from Chartered Isurance Institute (CII) UK. </p>
-<p>	Certified Cloud and infrastructure services from EMC </p>
+# Technical Expertise  
+| Technology | Proficiency |  
+|------------|-------------|  
+| Mainframe Technologies | Expert |  
+| AWS Cloud Services | Advanced |  
+| Agile Methodologies | Advanced |  
+| Project Management Tools (JIRA, Trello) | Expert |  
 
-<h2> Key Areas Of Expertise: </h2>
-<div>o	Scrum Master
-<div>o	Project Management	o	Requirement Analysis, design and development	o	Agile Principles
-<div>o	Spring planning and estimation
-<div>	o	High Severity Incident Management	o	Problem Management 
-<div>o	Quality assurance 	
+# Education  
+**Master of Business Administration**  
+University of Technology  
+*Graduated: 2014*  
 
-	
-		
-<h2>Key Technical Skills: </h2>
+**Bachelor of Science in Information Technology**  
+Institute of Technology  
+*Graduated: 2010*  
 
-<div>Skill Type	Description
-<div>Programming Languages	COBOL, REXX , JCL, XML, Web Services
-<div>Debugging Tools	Abend-Aid, Xpeditor
-<div>Operating Systems	MVS, Windows
-<div>Database	DB2
-<div>Tools	Alchemist, Endevor , Spufi, File-Aid, Tivoli Work Scheduler, Princeton/Optim , Platinum 
-<div>OLTP	CICS 
-<div>Project Management tool	MS Project, MS Excel
-<div>Collobration tool	Confluence 
-<div>Issue & Project tracking	Jira
+# Certifications  
+- Project Management Professional (PMP)  
+- Certified Scrum Master (CSM)  
+- AWS Certified Solutions Architect  
 
-<h2>Work Experience :</h2>
+# Awards  
+- "Best IT Project Delivery" Award at Aviva  (2022)  
+- Recognized for Outstanding Leadership in IT (2021)  
 
-<div>Total Work Experience : 13 years 
-Organization : DXC Technology
-
-- Project 1 	: Renewal Transparency/Personal lines
-- Role		: Apllicaiton Design/SME
-Client Name	: Aviva, UK 
-Tools Used	: Endevor, COBOL, DB2, JCL, jira, Confleunce, XML, XSL, Web Services
-Location 	: Norwich, UK
-Domain	: General Insurance 
-
-Project Detail : This project relates to fulfilling FCA requirement to clearly articulate current year price vs Renewal price so that customer can take an informed decision abbot renewal.
-
-Responsibilities Undertaken: 
-	Complete E2E design for product changes
-	Understand complex requirements and guide business to right direction for implementation
-	Helping team with implementation and delivery of project.
-	Quality checkpoints to ensure delivering business value
-	Handling multiple project design parallely 
-</div>
-<div>
-Project 2 	: New partner product setup 
-Role		: Scrum Master
-Client Name	: Aviva, UK 
-Tools Used	: Jira, Confluence
-Location 	: Norwich, UK
-Domain	: General Insurance
-
-Project Detail : New partner needs to be setup at aviva so that it can sell insurance to it’s customers using aviva platform. This involve development at multiple DC and end to end setup of product with some client specific enhancements.
-Methodology : Agile (Scrum)
-
-Responsibilities Undertaken: 
-	Facilating scrum ceremonies like grooming backlog, Sprint planning, review and retrospective.
-	Co-ordinating daily scrums 
-	Effective maintenance of sprint backlog and estimation
-	Removing  impediments so that team can focus on work
-	Preparing reporting for business/product owner like velocity chart, burdown chart etc
-	Helping product owner for story refinement and backlog management
-	Cordination in a distributed agile mode.
-	Educating team to create concise stories and promoting agile priciples.
-	Stakeholder management
-</div>
-<div>
-Project 3 	: George
-Role		: Project Lead
-Client Name	: Aviva, UK 
-Tools Used	: Endevor, COBOL, DB2, JCL, jira, Confleunce
-Location 	: Noida, India
-Domain	: General Insurance
-
-Project Detail : This project is to build new home insurance product which is based on modular approach of business. This is based on next generation insuarance needs and provide customer flexibility to opt the cover which they need. This product provide new salient features like pack based insurance, Multi premise insurance, Gadget insurance
-Methodology : Agile 
-
-Responsibilities Undertaken: 
-	Participation in project workshops with business analyst, project manager, scrum master
-	Providing inputs to scrum master for effective sprint planning.
-	Understanding business requirement and providing high level estimation
-	Quality analysis of design and analyzing impact on Exceed
-	Co-ordination with onshore team and leading offshore team for delivery
-	Active participation in scrum planning, backlog refinement, scrums.
-	Defect prevention and CAPA analysis
-	Supporting project through lifecycle from analysis design till Live support
-	Grooming tream members by process stablisation and training
-
-</div>
-<div>
-Project 4 : Aviva-Exceed-Maintenance
-Role		: Run Lead
-Client Name	: Aviva, UK 
-Tools Used	: Endevor, COBOL, DB2, JCL, jira, Confleunce
-Location 	: Norwich, UK
-Domain	: General Insurance
-Project Detail : Aviva live support has incident management, problem management. End to end support of high severity and priority incidents to minimize outage. Resolving business critical live issues, release planning and live support. 
-
-Methodology 	: Waterfall/Agile (Kanban)
-			 
-Responsibilities Undertaken: 
-	Leading 15+ Team member team working on problem management and incident mangement
-	Drive the Agile(Kanban) implementation in the maintenance project
-	Prioritizing the work based on priority and severity to ensure minimum impact to production system
-	Regular team meeting for project update & issues/concerns
-	Co-ordination with onsite team & third parties.
-	Weekly Reporting to client with update on progress & issues
-	Technical QA/Code QA of the solutions provided by Team members.
-	Face to client for any adhoc requests. Understanding the requirement & delivering the work on time
-	Co-ordination with offshore team.
-
-</div>
-<div>
-Project 5 : Aviva-Exceed-Development
-Role		: Team member
-Client Name	: Aviva, UK 
-Tools Used	: Endevor, COBOL, DB2, JCL
-Location 	: Noida, India
-Domain	: General Insurance
-Project Detail : Multiple change requests like flood-Re integration, SIP requirements and small enahcements related to policy and claims administration. 
-Methodology : Waterfall		 
-	
-Responsibilities Undertaken: 
-	Understanding business requirement and preparing LLD
-	Coding and unit testing, preparation of unit test plans
-	Reviewing peer code
-	Supporing defects in release cycle.
-	Mentoring new team members
-
-</div>
-
-
-
-
-<h2>Education : </h2>     
-<div>
-          Examination	      Institution/   University	Year of 
-Passing	%age of 
-marks 
-B.Tech. (Computer Science)	BIET, Jhansi	  2005	  75.4
-12th Board Exam.(U.P.)	UP Board	  1999	  75.0
-10th Board Exam.(U.P.)	UP Board	  1997	  71.2
-  </div> 
-<h2>Achievements:</h2>
-<div>
-	Awarded COA (Certificate of Achievement) & Key to Success for outstanding contribution towards project in DXC
-	UK Insurance CII Certified
-	Awarded Star Performer Of Quarter 
-	Certified Software Qaulity analyst
-	Certified Scrum Master from Scrum alliance
-	Certified Cloud and infrastructure services from EMC
-</div>
+# Business Impact Metrics  
+- Delivered projects with a total impact of over $2 million in cost savings.  
+- Achieved an average project delivery rate of 95%.  
+- Enhanced team productivity by 25% through effective management and coaching.
